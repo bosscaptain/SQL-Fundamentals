@@ -1,3 +1,4 @@
+
 -- Advanced SQL Queries Practice
 
 -- 1. Create table
