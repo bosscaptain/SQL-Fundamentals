@@ -9,7 +9,6 @@ CREATE TABLE emp(
     deptid INT,
     FOREIGN KEY (deptid) REFERENCES dept(deptid)
 );
-
 insert into emp values(1,'raju',50000,101);
 insert into emp values(2,'leela',65000,102);
 insert into emp values(3,'geetha',70000,103);
